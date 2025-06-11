@@ -3,7 +3,7 @@
 
 
 ## 1. Root to leaf path Probelems 
- # quetion : Smallest String Starting From Leaf (Medium) [988 leetcode] 
+ # question : Smallest String Starting From Leaf (Medium) [988 leetcode] 
  ```bash 
               // trees ---> root to leaf path problems
       
